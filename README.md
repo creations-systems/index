@@ -1,7 +1,7 @@
 index
 # Creations Systems: Index
 
-![Creations Organization](https://raw.githubusercontent.com/creationssystems/index/master/Creations_Organization.PNG)
+![Creations_Organization](https://user-images.githubusercontent.com/12828104/122349190-49598600-cf4c-11eb-8097-e5e07901ddc5.png)
 
 ## Platform as a Service (PaaS)
 
